@@ -1,0 +1,2 @@
+# myfirstdaynewrepository
+newrepository
